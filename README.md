@@ -1,3 +1,3 @@
 # Bandera
 
-![Captura](Captura.png) 
+![Captura](Captura.PNG) 
